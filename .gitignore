@@ -1,0 +1,12 @@
+# Source deck (binary; contains third-party logos and photos not used on the site)
+*.key
+
+# Local preview tooling (machine-specific paths)
+.claude/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
